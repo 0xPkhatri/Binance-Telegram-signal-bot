@@ -1,5 +1,5 @@
 attrs==19.3.0
-autobahn==19.11.1
+autobahn==20.12.3
 Automat==0.8.0
 beautifulsoup4==4.8.2
 bs4==0.0.1
